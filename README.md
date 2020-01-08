@@ -10,7 +10,7 @@ Qt 弄得类似xcowsay的小程序 可以绘制一张背景透明的图像在桌
 
 -i, --image <filepath> 设置自己的图片（背景是透明的）<br>
 -hi， --height <height> 设置图片的高度默认500px 宽度会自适应<br>
--t, --time <seconds> 设置显示时间默认3秒
+-t, --time <seconds> 设置显示时间默认3秒<br>
 eg
 qcowsay.exe -i C:/a.png -hi 500 -t 5
   
