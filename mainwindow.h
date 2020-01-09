@@ -8,7 +8,6 @@
 #include <QPainter>
 #include <QTimer>
 
-
 namespace Ui {
 class MainWindow;
 }
